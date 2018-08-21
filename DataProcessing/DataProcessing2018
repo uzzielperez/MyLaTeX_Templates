@@ -1,0 +1,191 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[space]{grffile}
+\usepackage{anyfontsize}
+\usepackage[none]{hyphenat}
+\usepackage{lipsum}
+\usepackage{color}
+\usepackage[export]{adjustbox}
+\usepackage{graphics}
+\usepackage{array}
+
+\usepackage[absolute,overlay]{textpos}
+\usepackage{float}
+\usepackage{wrapfig}
+
+\graphicspath{{/Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/}}
+
+
+%Information to be included in the title page:
+\title{First 36.381/fb of 2018 data in diphoton channel + Data/MC comparison}
+\author{Uzziel Perez}
+\institute{University of Alabama}
+\date{2018}
+
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{Overview}
+\begin{itemize}
+  \item Dataset up to 24.089/fb
+  \item Latest dataset
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{2018 Data Processing}
+\begin{itemize}
+  \item CMSSW\_10\_1\_1
+  \item GT: 101X\_dataRun2\_Prompt\_v9
+  \item Datasets:
+  \begin{itemize}
+    \item /EGamma/Run2018A-PromptReco-v1/MINIAOD
+    \item /EGamma/Run2018A-PromptReco-v2/MINIAOD
+    \item /EGamma/Run2018A-PromptReco-v3/MINIAOD
+    \item /EGamma/Run2018B-PromptReco-v1/MINIAOD
+    \item /EGamma/Run2018B-PromptReco-v2/MINIAOD
+    \item /EGamma/Run2018C-PromptReco-v1/MINIAOD
+    \item /EGamma/Run2018C-PromptReco-v2/MINIAOD
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{2018 Data Processing}
+\begin{itemize}
+  \item Good Run JSON: {\fontsize{90}{60} Cert\_314472-319851\_13TeV\_PromptReco\_Collisions18\_JSON.txt}
+  {\small Previous up to 318876}
+  \item Selection:
+  \begin{itemize}
+    \item Trigger: HLT\_DoublePhoton70
+    \item $p_{T} > 125$ GeV
+    \item $m_{\gamma\gamma} > 500$ GeV
+    \item High $p_{T}$ photon ID v2
+  \end{itemize}
+\end{itemize}
+\end{frame}
+
+%mgammagamma
+\begin{frame}
+\frametitle{Data/MC Comparisons: $m_{\gamma\gamma}$}
+\begin{columns}[t]
+
+\column{.32\textwidth}
+{\footnotesize Includes NNLO k-factor applied to mγγ as in 2016 analysis, but with modified pT cut}
+
+\column{.001\textwidth}
+\centering
+\rotatebox{90}{\parbox{4cm}{\centering \footnotesize{\textcolor{blue}{Full 2018 dataset}}}}\\
+\rotatebox{90}{\parbox{4cm}{\centering \footnotesize{\textcolor{blue}{New 2018 data}}}}
+
+\column{.25\textwidth}
+\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\caption{\textcolor{white}{ta-} \textcolor{blue}{Barrel-Barrel}}
+
+\column{.28\textwidth}
+\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\caption{\textcolor{white}{ta-} \textcolor{blue}{Barrel-Endcap}}
+\end{columns}
+\end{frame}
+
+\begin{frame}{A Frame with two Columns}
+  %
+  \begin{columns}
+    %
+    \begin{column}{.45\textwidth}
+      \minipage[c][0.65\textheight][s]{\columnwidth}
+      \vspace{0.05\textheight}
+
+      On the left side text, figures on the right.
+
+      \vfill
+
+      \onslide<2->
+
+      Start with basic figures, add more information later
+
+      \vfill
+
+      \onslide<3->
+
+      Use \texttt{\textbackslash vfill} for the text column but not
+      for figures.
+
+      \vfill
+      \onslide<4->
+      \begin{tabular}{|p{0.9\textwidth}}
+        Use \texttt{minipage} for top aligned images, and
+        \texttt{parbox} for vertically centered images.
+      \end{tabular}
+
+
+      \endminipage
+    \end{column}
+    %
+    \begin{column}{.55\textwidth}
+
+      % for top aligned images use minipage
+      \only<1-3>{
+        \minipage[c][0.8\textheight][s]{\columnwidth}
+
+        \onslide<1->
+
+        \only<1-3>{
+          \begin{figure}
+            \centering
+            \includegraphics<1>[width=\textwidth]{%
+              abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf} %
+            \includegraphics<2-3>[width=\textwidth]{%
+              abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf} %
+        \end{figure}}
+
+        \only<3>{
+          \begin{figure}
+            \centering
+            \includegraphics[width=\textwidth]{%
+              abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf} %
+        \end{figure}}
+
+        \endminipage
+      }
+
+      % for vertically centered images use parbox
+      \only<4>{
+        \parbox[c][0.8\textheight][c]{\columnwidth}{
+          \begin{figure}
+            \centering
+            \includegraphics[height=0.5\textheight]{%
+              abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf} %
+          \end{figure}
+        }
+      }
+
+    \end{column}
+  \end{columns}
+
+\end{frame}
+
+%pt1
+%pt2
+%qtgammagamma
+%deltaphigammagamma
+%deltaetagammagamma
+%abs(cosThetaStar)
+%deltaRgammagamma
+%eta1
+%phi1
+%eta2
+%phi2
+%n_pv
+
+
+\end{document}
