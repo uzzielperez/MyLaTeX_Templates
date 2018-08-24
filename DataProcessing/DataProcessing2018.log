@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  21 AUG 2018 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  24 AUG 2018 01:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -810,23 +810,35 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen279
 \l_MT_below_shortintertext_sep=\dimen280
 )
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 46.
+
 (./DataProcessing2018.aux)
 \openout1 = `DataProcessing2018.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -894,7 +906,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box63
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 46.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -904,66 +916,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (./DataProcessing2018.out) (./DataProcessing2018.out)
 \@outlinefile=\write5
 \openout5 = `DataProcessing2018.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 40.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 40.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 40.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 40.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 40.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 40.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 40.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 40.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 40.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 40.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 40.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
-0.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-40.
+46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 40.
+ut line 46.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -988,31 +1000,32 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-theorem-dic
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./DataProcessing2018.nav) [1
-
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+) (./DataProcessing2018.nav)
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 50.
+line 46.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [2
+) [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
 
 ] [3
 
 ]
-Overfull \hbox (6.1695pt too wide) in paragraph at lines 84--84
+Overfull \hbox (6.1695pt too wide) in paragraph at lines 90--90
 \OT1/cmss/m/n/10.95 Cert[]-314472-319851[]-13TeV[]-PromptReco[]-Col-li-sions18[
 ]-JSON.txt 
  []
@@ -1021,41 +1034,40 @@ Overfull \hbox (6.1695pt too wide) in paragraph at lines 84--84
 
 ]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Minv_b
-arrel_2018_lin.pdf, id=124, 569.12625pt x 546.04pt>
+arrel_2018_lin.pdf, id=45, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/M
 inv_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Mi
 nv_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Minv_barrel_2018_lin.pdf  used on input line 127.
+omptReco-sans-Cv3/Minv_barrel_2018_lin.pdf  used on input line 133.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-</Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/abs(Di
-photon.cosThetaStar)_barrel_2018_lin.pdf, id=125, 569.12625pt x 546.04pt>
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 127.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Minv_barrel_2018_lin.pdf, 
+id=46, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Minv_barrel_2018_lin.
+pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Minv_barrel_2018_lin.p
+df>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Mi
+nv_barrel_2018_lin.pdf  used on input line 133.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:127: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:133: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \end{frame}
+l.133 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:127: Undefined control sequence.
+./DataProcessing2018.tex:133: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.127 \end{frame}
+l.133 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1063,10 +1075,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:127: Undefined control sequence.
+./DataProcessing2018.tex:133: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.127 \end{frame}
+l.133 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1075,48 +1087,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 127--127
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 133--133
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 127--127
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 133--133
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Minv_e
-ndcap_2018_lin.pdf, id=126, 569.12625pt x 546.04pt>
+ndcap_2018_lin.pdf, id=47, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/M
 inv_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Mi
 nv_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Minv_endcap_2018_lin.pdf  used on input line 127.
+omptReco-sans-Cv3/Minv_endcap_2018_lin.pdf  used on input line 133.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 127.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Minv_endcap_2018_lin.pdf, 
+id=48, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Minv_endcap_2018_lin.
+pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Minv_endcap_2018_lin.p
+df>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Mi
+nv_endcap_2018_lin.pdf  used on input line 133.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:127: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:133: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \end{frame}
+l.133 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:127: Undefined control sequence.
+./DataProcessing2018.tex:133: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.127 \end{frame}
+l.133 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1124,10 +1137,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:127: Undefined control sequence.
+./DataProcessing2018.tex:133: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.127 \end{frame}
+l.133 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1136,12 +1149,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 127--127
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 133--133
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 127--127
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 133--133
 [] 
  []
 
@@ -1149,44 +1162,45 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 127--127
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Minv_
 barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Wo
-rk/Data2018/Run2018A-C-PromptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_20
-18_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Data20
-18/Run2018A-C-PromptReco-sans-Cv3/Minv_endcap_2018_lin.pdf, page is rotated 90 
-degrees>]
+rk/Data2018/Latest/NEW_Minv_barrel_2018_lin.pdf, page is rotated 90 degrees> </
+Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Minv_end
+cap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/
+Data2018/Latest/NEW_Minv_endcap_2018_lin.pdf, page is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-1.pt_barrel_2018_lin.pdf, id=287, 569.12625pt x 546.04pt>
+1.pt_barrel_2018_lin.pdf, id=230, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton1.pt_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton1.pt_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon1.pt_barrel_2018_lin.pdf  used on input line 162.
+omptReco-sans-Cv3/Photon1.pt_barrel_2018_lin.pdf  used on input line 168.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 162.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_barrel_2018_lin
+.pdf, id=231, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_barrel_201
+8_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_barrel_2018
+_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton1.pt_barrel_2018_lin.pdf  used on input line 168.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:162: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:168: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 \end{frame}
+l.168 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:162: Undefined control sequence.
+./DataProcessing2018.tex:168: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.162 \end{frame}
+l.168 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1194,10 +1208,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:162: Undefined control sequence.
+./DataProcessing2018.tex:168: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.162 \end{frame}
+l.168 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1206,48 +1220,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 162--162
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 168--168
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 162--162
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 168--168
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-1.pt_endcap_2018_lin.pdf, id=288, 569.12625pt x 546.04pt>
+1.pt_endcap_2018_lin.pdf, id=232, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton1.pt_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton1.pt_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon1.pt_endcap_2018_lin.pdf  used on input line 162.
+omptReco-sans-Cv3/Photon1.pt_endcap_2018_lin.pdf  used on input line 168.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 162.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_endcap_2018_lin
+.pdf, id=233, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_endcap_201
+8_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_endcap_2018
+_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton1.pt_endcap_2018_lin.pdf  used on input line 168.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:162: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:168: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 \end{frame}
+l.168 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:162: Undefined control sequence.
+./DataProcessing2018.tex:168: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.162 \end{frame}
+l.168 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1255,10 +1270,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:162: Undefined control sequence.
+./DataProcessing2018.tex:168: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.162 \end{frame}
+l.168 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1267,12 +1282,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 162--162
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 168--168
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 162--162
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 168--168
 [] 
  []
 
@@ -1280,42 +1295,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 162--162
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photo
 n1.pt_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desk
-top/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon1.pt_endcap_2018_lin.pdf
-, page is rotated 90 degrees>]
+top/Work/Data2018/Latest/NEW_Photon1.pt_barrel_2018_lin.pdf, page is rotated 90
+ degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-
+Cv3/Photon1.pt_endcap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielp
+erez/Desktop/Work/Data2018/Latest/NEW_Photon1.pt_endcap_2018_lin.pdf, page is r
+otated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-2.pt_barrel_2018_lin.pdf, id=401, 569.12625pt x 546.04pt>
+2.pt_barrel_2018_lin.pdf, id=412, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton2.pt_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton2.pt_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon2.pt_barrel_2018_lin.pdf  used on input line 197.
+omptReco-sans-Cv3/Photon2.pt_barrel_2018_lin.pdf  used on input line 203.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 197.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_barrel_2018_lin
+.pdf, id=413, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_barrel_201
+8_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_barrel_2018
+_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton2.pt_barrel_2018_lin.pdf  used on input line 203.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:197: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:203: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \end{frame}
+l.203 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:197: Undefined control sequence.
+./DataProcessing2018.tex:203: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.197 \end{frame}
+l.203 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1323,10 +1342,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:197: Undefined control sequence.
+./DataProcessing2018.tex:203: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.197 \end{frame}
+l.203 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1335,48 +1354,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 197--197
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 203--203
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 197--197
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 203--203
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-2.pt_endcap_2018_lin.pdf, id=402, 569.12625pt x 546.04pt>
+2.pt_endcap_2018_lin.pdf, id=414, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton2.pt_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton2.pt_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon2.pt_endcap_2018_lin.pdf  used on input line 197.
+omptReco-sans-Cv3/Photon2.pt_endcap_2018_lin.pdf  used on input line 203.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 197.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_endcap_2018_lin
+.pdf, id=415, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_endcap_201
+8_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_endcap_2018
+_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton2.pt_endcap_2018_lin.pdf  used on input line 203.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:197: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:203: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \end{frame}
+l.203 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:197: Undefined control sequence.
+./DataProcessing2018.tex:203: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.197 \end{frame}
+l.203 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1384,10 +1404,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:197: Undefined control sequence.
+./DataProcessing2018.tex:203: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.197 \end{frame}
+l.203 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1396,12 +1416,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 197--197
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 203--203
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 197--197
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 203--203
 [] 
  []
 
@@ -1409,42 +1429,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 197--197
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photo
 n2.pt_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desk
-top/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon2.pt_endcap_2018_lin.pdf
-, page is rotated 90 degrees>]
+top/Work/Data2018/Latest/NEW_Photon2.pt_barrel_2018_lin.pdf, page is rotated 90
+ degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-
+Cv3/Photon2.pt_endcap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielp
+erez/Desktop/Work/Data2018/Latest/NEW_Photon2.pt_endcap_2018_lin.pdf, page is r
+otated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.qt_barrel_2018_log.pdf, id=515, 569.12625pt x 546.04pt>
+on.qt_barrel_2018_log.pdf, id=595, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.qt_barrel_2018_log.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.qt_barrel_2018_log.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.qt_barrel_2018_log.pdf  used on input line 232.
+omptReco-sans-Cv3/Diphoton.qt_barrel_2018_log.pdf  used on input line 238.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 232.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_barrel_2018_lo
+g.pdf, id=596, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_barrel_20
+18_log.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_barrel_201
+8_log.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.qt_barrel_2018_log.pdf  used on input line 238.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:232: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:238: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232 \end{frame}
+l.238 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:232: Undefined control sequence.
+./DataProcessing2018.tex:238: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.232 \end{frame}
+l.238 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1452,10 +1476,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:232: Undefined control sequence.
+./DataProcessing2018.tex:238: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.232 \end{frame}
+l.238 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1464,48 +1488,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 232--232
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 238--238
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 232--232
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 238--238
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.qt_endcap_2018_log.pdf, id=516, 569.12625pt x 546.04pt>
+on.qt_endcap_2018_log.pdf, id=597, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.qt_endcap_2018_log.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.qt_endcap_2018_log.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.qt_endcap_2018_log.pdf  used on input line 232.
+omptReco-sans-Cv3/Diphoton.qt_endcap_2018_log.pdf  used on input line 238.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 232.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_endcap_2018_lo
+g.pdf, id=598, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_endcap_20
+18_log.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_endcap_201
+8_log.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.qt_endcap_2018_log.pdf  used on input line 238.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:232: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:238: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232 \end{frame}
+l.238 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:232: Undefined control sequence.
+./DataProcessing2018.tex:238: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.232 \end{frame}
+l.238 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1513,10 +1538,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:232: Undefined control sequence.
+./DataProcessing2018.tex:238: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.232 \end{frame}
+l.238 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1525,12 +1550,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 232--232
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 238--238
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 232--232
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 238--238
 [] 
  []
 
@@ -1538,43 +1563,47 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 232--232
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Dipho
 ton.qt_barrel_2018_log.pdf, page is rotated 90 degrees> </Users/uzzielperez/Des
-ktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphoton.qt_endcap_2018_log.p
-df, page is rotated 90 degrees>]
+ktop/Work/Data2018/Latest/NEW_Diphoton.qt_barrel_2018_log.pdf, page is rotated 
+90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-san
+s-Cv3/Diphoton.qt_endcap_2018_log.pdf, page is rotated 90 degrees> </Users/uzzi
+elperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.qt_endcap_2018_log.pdf, page 
+is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.deltaPhi_barrel_2018_log.pdf, id=629, 569.12625pt x 546.04pt>
+on.deltaPhi_barrel_2018_log.pdf, id=777, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.deltaPhi_barrel_2018_log.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.deltaPhi_barrel_2018_log.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.deltaPhi_barrel_2018_log.pdf  used on input line 267
+omptReco-sans-Cv3/Diphoton.deltaPhi_barrel_2018_log.pdf  used on input line 273
 .
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 267.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_barrel_2
+018_log.pdf, id=778, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_bar
+rel_2018_log.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_barr
+el_2018_log.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.deltaPhi_barrel_2018_log.pdf  used on input line 273.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:267: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:273: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.267 \end{frame}
+l.273 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:267: Undefined control sequence.
+./DataProcessing2018.tex:273: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.267 \end{frame}
+l.273 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1582,10 +1611,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:267: Undefined control sequence.
+./DataProcessing2018.tex:273: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.267 \end{frame}
+l.273 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1594,49 +1623,50 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 267--267
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 273--273
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 267--267
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 273--273
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.deltaPhi_endcap_2018_log.pdf, id=630, 569.12625pt x 546.04pt>
+on.deltaPhi_endcap_2018_log.pdf, id=779, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.deltaPhi_endcap_2018_log.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.deltaPhi_endcap_2018_log.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.deltaPhi_endcap_2018_log.pdf  used on input line 267
+omptReco-sans-Cv3/Diphoton.deltaPhi_endcap_2018_log.pdf  used on input line 273
 .
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 267.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_endcap_2
+018_log.pdf, id=780, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_end
+cap_2018_log.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_endc
+ap_2018_log.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.deltaPhi_endcap_2018_log.pdf  used on input line 273.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:267: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:273: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.267 \end{frame}
+l.273 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:267: Undefined control sequence.
+./DataProcessing2018.tex:273: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.267 \end{frame}
+l.273 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1644,10 +1674,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:267: Undefined control sequence.
+./DataProcessing2018.tex:273: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.267 \end{frame}
+l.273 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1656,12 +1686,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 267--267
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 273--273
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 267--267
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 273--273
 [] 
  []
 
@@ -1669,43 +1699,47 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 267--267
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Dipho
 ton.deltaPhi_barrel_2018_log.pdf, page is rotated 90 degrees> </Users/uzzielper
-ez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphoton.deltaPhi_endca
-p_2018_log.pdf, page is rotated 90 degrees>]
+ez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_barrel_2018_log.pdf, page
+ is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
+omptReco-sans-Cv3/Diphoton.deltaPhi_endcap_2018_log.pdf, page is rotated 90 deg
+rees> </Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaPhi_en
+dcap_2018_log.pdf, page is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.deltaEta_barrel_2018_lin.pdf, id=744, 569.12625pt x 546.04pt>
+on.deltaEta_barrel_2018_lin.pdf, id=959, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.deltaEta_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.deltaEta_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.deltaEta_barrel_2018_lin.pdf  used on input line 305
+omptReco-sans-Cv3/Diphoton.deltaEta_barrel_2018_lin.pdf  used on input line 311
 .
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 305.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_barrel_2
+018_lin.pdf, id=960, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_bar
+rel_2018_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_barr
+el_2018_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.deltaEta_barrel_2018_lin.pdf  used on input line 311.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:305: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:311: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.305 \end{frame}
+l.311 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:305: Undefined control sequence.
+./DataProcessing2018.tex:311: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.305 \end{frame}
+l.311 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1713,10 +1747,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:305: Undefined control sequence.
+./DataProcessing2018.tex:311: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.305 \end{frame}
+l.311 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1725,49 +1759,50 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 305--305
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 311--311
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 305--305
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 311--311
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.deltaEta_endcap_2018_lin.pdf, id=745, 569.12625pt x 546.04pt>
+on.deltaEta_endcap_2018_lin.pdf, id=961, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.deltaEta_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.deltaEta_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.deltaEta_endcap_2018_lin.pdf  used on input line 305
+omptReco-sans-Cv3/Diphoton.deltaEta_endcap_2018_lin.pdf  used on input line 311
 .
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 305.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_endcap_2
+018_lin.pdf, id=962, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_end
+cap_2018_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_endc
+ap_2018_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.deltaEta_endcap_2018_lin.pdf  used on input line 311.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:305: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:311: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.305 \end{frame}
+l.311 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:305: Undefined control sequence.
+./DataProcessing2018.tex:311: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.305 \end{frame}
+l.311 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1775,10 +1810,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:305: Undefined control sequence.
+./DataProcessing2018.tex:311: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.305 \end{frame}
+l.311 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1787,12 +1822,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 305--305
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 311--311
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 305--305
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 311--311
 [] 
  []
 
@@ -1800,41 +1835,47 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 305--305
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Dipho
 ton.deltaEta_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielper
-ez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphoton.deltaEta_endca
-p_2018_lin.pdf, page is rotated 90 degrees>]
+ez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_barrel_2018_lin.pdf, page
+ is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
+omptReco-sans-Cv3/Diphoton.deltaEta_endcap_2018_lin.pdf, page is rotated 90 deg
+rees> </Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaEta_en
+dcap_2018_lin.pdf, page is rotated 90 degrees>]
+</Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/abs(Di
+photon.cosThetaStar)_barrel_2018_lin.pdf, id=1142, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
 bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
 s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
 omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 343.
+ line 349.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 343.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosThetaStar)
+_barrel_2018_lin.pdf, id=1143, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosTheta
+Star)_barrel_2018_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosThetaS
+tar)_barrel_2018_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_ab
+s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input line 349.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:343: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:349: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.343 \end{frame}
+l.349 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:343: Undefined control sequence.
+./DataProcessing2018.tex:349: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.343 \end{frame}
+l.349 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1842,10 +1883,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:343: Undefined control sequence.
+./DataProcessing2018.tex:349: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.343 \end{frame}
+l.349 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1854,49 +1895,50 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 343--343
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 349--349
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 343--343
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 349--349
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/abs(Di
-photon.cosThetaStar)_endcap_2018_lin.pdf, id=858, 569.12625pt x 546.04pt>
+photon.cosThetaStar)_endcap_2018_lin.pdf, id=1144, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
 bs(Diphoton.cosThetaStar)_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
 s(Diphoton.cosThetaStar)_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
 omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_endcap_2018_lin.pdf  used on input
- line 343.
+ line 349.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 343.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosThetaStar)
+_endcap_2018_lin.pdf, id=1145, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosTheta
+Star)_endcap_2018_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosThetaS
+tar)_endcap_2018_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_ab
+s(Diphoton.cosThetaStar)_endcap_2018_lin.pdf  used on input line 349.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:343: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:349: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.343 \end{frame}
+l.349 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:343: Undefined control sequence.
+./DataProcessing2018.tex:349: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.343 \end{frame}
+l.349 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1904,10 +1946,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:343: Undefined control sequence.
+./DataProcessing2018.tex:349: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.343 \end{frame}
+l.349 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1916,53 +1958,60 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 343--343
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 349--349
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 343--343
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 349--349
 [] 
  []
 
 [11
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/abs(D
-iphoton.cosThetaStar)_endcap_2018_lin.pdf, page is rotated 90 degrees>]
+iphoton.cosThetaStar)_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/
+uzzielperez/Desktop/Work/Data2018/Latest/NEW_abs(Diphoton.cosThetaStar)_barrel_
+2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Data
+2018/Run2018A-C-PromptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_endcap_2018_lin.
+pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Late
+st/NEW_abs(Diphoton.cosThetaStar)_endcap_2018_lin.pdf, page is rotated 90 degre
+es>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.deltaR_barrel_2018_lin.pdf, id=930, 569.12625pt x 546.04pt>
+on.deltaR_barrel_2018_lin.pdf, id=1325, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.deltaR_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.deltaR_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.deltaR_barrel_2018_lin.pdf  used on input line 381.
+omptReco-sans-Cv3/Diphoton.deltaR_barrel_2018_lin.pdf  used on input line 387.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 381.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_barrel_201
+8_lin.pdf, id=1326, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_barre
+l_2018_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_barrel
+_2018_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.deltaR_barrel_2018_lin.pdf  used on input line 387.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:381: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:387: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 \end{frame}
+l.387 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:381: Undefined control sequence.
+./DataProcessing2018.tex:387: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.381 \end{frame}
+l.387 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1970,10 +2019,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:381: Undefined control sequence.
+./DataProcessing2018.tex:387: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.381 \end{frame}
+l.387 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1982,48 +2031,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 381--381
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 387--387
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 381--381
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 387--387
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphot
-on.deltaR_endcap_2018_lin.pdf, id=931, 569.12625pt x 546.04pt>
+on.deltaR_endcap_2018_lin.pdf, id=1327, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/D
 iphoton.deltaR_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Di
 photon.deltaR_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Diphoton.deltaR_endcap_2018_lin.pdf  used on input line 381.
+omptReco-sans-Cv3/Diphoton.deltaR_endcap_2018_lin.pdf  used on input line 387.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 381.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_endcap_201
+8_lin.pdf, id=1328, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_endca
+p_2018_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_endcap
+_2018_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Di
+photon.deltaR_endcap_2018_lin.pdf  used on input line 387.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:381: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:387: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 \end{frame}
+l.387 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:381: Undefined control sequence.
+./DataProcessing2018.tex:387: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.381 \end{frame}
+l.387 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2031,10 +2081,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:381: Undefined control sequence.
+./DataProcessing2018.tex:387: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.381 \end{frame}
+l.387 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2043,12 +2093,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 381--381
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 387--387
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 381--381
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 387--387
 [] 
  []
 
@@ -2056,42 +2106,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 381--381
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Dipho
 ton.deltaR_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez
-/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Diphoton.deltaR_endcap_20
-18_lin.pdf, page is rotated 90 degrees>]
+/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_barrel_2018_lin.pdf, page is 
+rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Prompt
+Reco-sans-Cv3/Diphoton.deltaR_endcap_2018_lin.pdf, page is rotated 90 degrees> 
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Diphoton.deltaR_endcap_201
+8_lin.pdf, page is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-1.eta_barrel_2018_lin.pdf, id=1043, 569.12625pt x 546.04pt>
+1.eta_barrel_2018_lin.pdf, id=1507, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton1.eta_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton1.eta_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon1.eta_barrel_2018_lin.pdf  used on input line 419.
+omptReco-sans-Cv3/Photon1.eta_barrel_2018_lin.pdf  used on input line 425.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 419.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_barrel_2018_li
+n.pdf, id=1508, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_barrel_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_barrel_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton1.eta_barrel_2018_lin.pdf  used on input line 425.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:419: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:425: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.419 \end{frame}
+l.425 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:419: Undefined control sequence.
+./DataProcessing2018.tex:425: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.419 \end{frame}
+l.425 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2099,10 +2153,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:419: Undefined control sequence.
+./DataProcessing2018.tex:425: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.419 \end{frame}
+l.425 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2111,48 +2165,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 419--419
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 425--425
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 419--419
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 425--425
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-1.eta_endcap_2018_lin.pdf, id=1044, 569.12625pt x 546.04pt>
+1.eta_endcap_2018_lin.pdf, id=1509, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton1.eta_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton1.eta_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon1.eta_endcap_2018_lin.pdf  used on input line 419.
+omptReco-sans-Cv3/Photon1.eta_endcap_2018_lin.pdf  used on input line 425.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 419.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_endcap_2018_li
+n.pdf, id=1510, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_endcap_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_endcap_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton1.eta_endcap_2018_lin.pdf  used on input line 425.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:419: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:425: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.419 \end{frame}
+l.425 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:419: Undefined control sequence.
+./DataProcessing2018.tex:425: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.419 \end{frame}
+l.425 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2160,10 +2215,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:419: Undefined control sequence.
+./DataProcessing2018.tex:425: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.419 \end{frame}
+l.425 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2172,12 +2227,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 419--419
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 425--425
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 419--419
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 425--425
 [] 
  []
 
@@ -2185,42 +2240,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 419--419
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photo
 n1.eta_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Des
-ktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon1.eta_endcap_2018_lin.p
-df, page is rotated 90 degrees>]
+ktop/Work/Data2018/Latest/NEW_Photon1.eta_barrel_2018_lin.pdf, page is rotated 
+90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-san
+s-Cv3/Photon1.eta_endcap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzi
+elperez/Desktop/Work/Data2018/Latest/NEW_Photon1.eta_endcap_2018_lin.pdf, page 
+is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-1.phi_barrel_2018_lin.pdf, id=1158, 569.12625pt x 546.04pt>
+1.phi_barrel_2018_lin.pdf, id=1690, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton1.phi_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton1.phi_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon1.phi_barrel_2018_lin.pdf  used on input line 454.
+omptReco-sans-Cv3/Photon1.phi_barrel_2018_lin.pdf  used on input line 462.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 454.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_barrel_2018_li
+n.pdf, id=1691, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_barrel_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_barrel_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton1.phi_barrel_2018_lin.pdf  used on input line 462.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:454: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:462: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.454 \end{frame}
+l.462 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:454: Undefined control sequence.
+./DataProcessing2018.tex:462: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.454 \end{frame}
+l.462 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2228,10 +2287,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:454: Undefined control sequence.
+./DataProcessing2018.tex:462: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.454 \end{frame}
+l.462 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2240,48 +2299,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 454--454
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 462--462
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 454--454
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 462--462
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-1.phi_endcap_2018_lin.pdf, id=1159, 569.12625pt x 546.04pt>
+1.phi_endcap_2018_lin.pdf, id=1692, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton1.phi_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton1.phi_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon1.phi_endcap_2018_lin.pdf  used on input line 454.
+omptReco-sans-Cv3/Photon1.phi_endcap_2018_lin.pdf  used on input line 462.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 454.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_endcap_2018_li
+n.pdf, id=1693, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_endcap_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_endcap_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton1.phi_endcap_2018_lin.pdf  used on input line 462.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:454: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:462: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.454 \end{frame}
+l.462 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:454: Undefined control sequence.
+./DataProcessing2018.tex:462: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.454 \end{frame}
+l.462 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2289,10 +2349,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:454: Undefined control sequence.
+./DataProcessing2018.tex:462: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.454 \end{frame}
+l.462 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2301,12 +2361,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 454--454
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 462--462
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 454--454
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 462--462
 [] 
  []
 
@@ -2314,42 +2374,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 454--454
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photo
 n1.phi_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Des
-ktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon1.phi_endcap_2018_lin.p
-df, page is rotated 90 degrees>]
+ktop/Work/Data2018/Latest/NEW_Photon1.phi_barrel_2018_lin.pdf, page is rotated 
+90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-san
+s-Cv3/Photon1.phi_endcap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzi
+elperez/Desktop/Work/Data2018/Latest/NEW_Photon1.phi_endcap_2018_lin.pdf, page 
+is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-2.eta_barrel_2018_lin.pdf, id=1271, 569.12625pt x 546.04pt>
+2.eta_barrel_2018_lin.pdf, id=1871, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton2.eta_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton2.eta_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon2.eta_barrel_2018_lin.pdf  used on input line 493.
+omptReco-sans-Cv3/Photon2.eta_barrel_2018_lin.pdf  used on input line 502.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 493.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_barrel_2018_li
+n.pdf, id=1872, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_barrel_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_barrel_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton2.eta_barrel_2018_lin.pdf  used on input line 502.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:493: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:502: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.493 \end{frame}
+l.502 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:493: Undefined control sequence.
+./DataProcessing2018.tex:502: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.493 \end{frame}
+l.502 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2357,10 +2421,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:493: Undefined control sequence.
+./DataProcessing2018.tex:502: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.493 \end{frame}
+l.502 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2369,48 +2433,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 493--493
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 502--502
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 493--493
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 502--502
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-2.eta_endcap_2018_lin.pdf, id=1272, 569.12625pt x 546.04pt>
+2.eta_endcap_2018_lin.pdf, id=1873, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton2.eta_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton2.eta_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon2.eta_endcap_2018_lin.pdf  used on input line 493.
+omptReco-sans-Cv3/Photon2.eta_endcap_2018_lin.pdf  used on input line 502.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 493.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_endcap_2018_li
+n.pdf, id=1874, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_endcap_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_endcap_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton2.eta_endcap_2018_lin.pdf  used on input line 502.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:493: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:502: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.493 \end{frame}
+l.502 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:493: Undefined control sequence.
+./DataProcessing2018.tex:502: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.493 \end{frame}
+l.502 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2418,10 +2483,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:493: Undefined control sequence.
+./DataProcessing2018.tex:502: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.493 \end{frame}
+l.502 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2430,12 +2495,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 493--493
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 502--502
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 493--493
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 502--502
 [] 
  []
 
@@ -2443,42 +2508,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 493--493
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photo
 n2.eta_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Des
-ktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon2.eta_endcap_2018_lin.p
-df, page is rotated 90 degrees>]
+ktop/Work/Data2018/Latest/NEW_Photon2.eta_barrel_2018_lin.pdf, page is rotated 
+90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-san
+s-Cv3/Photon2.eta_endcap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzi
+elperez/Desktop/Work/Data2018/Latest/NEW_Photon2.eta_endcap_2018_lin.pdf, page 
+is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-2.phi_barrel_2018_lin.pdf, id=1385, 569.12625pt x 546.04pt>
+2.phi_barrel_2018_lin.pdf, id=2053, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton2.phi_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton2.phi_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon2.phi_barrel_2018_lin.pdf  used on input line 528.
+omptReco-sans-Cv3/Photon2.phi_barrel_2018_lin.pdf  used on input line 537.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 528.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_barrel_2018_li
+n.pdf, id=2054, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_barrel_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_barrel_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton2.phi_barrel_2018_lin.pdf  used on input line 537.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:528: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:537: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.528 \end{frame}
+l.537 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:528: Undefined control sequence.
+./DataProcessing2018.tex:537: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.528 \end{frame}
+l.537 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2486,10 +2555,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:528: Undefined control sequence.
+./DataProcessing2018.tex:537: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.528 \end{frame}
+l.537 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2498,48 +2567,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 528--528
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 537--537
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 528--528
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 537--537
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon
-2.phi_endcap_2018_lin.pdf, id=1386, 569.12625pt x 546.04pt>
+2.phi_endcap_2018_lin.pdf, id=2055, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/P
 hoton2.phi_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Ph
 oton2.phi_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/Photon2.phi_endcap_2018_lin.pdf  used on input line 528.
+omptReco-sans-Cv3/Photon2.phi_endcap_2018_lin.pdf  used on input line 537.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 528.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_endcap_2018_li
+n.pdf, id=2056, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_endcap_20
+18_lin.pdf Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_endcap_201
+8_lin.pdf>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_Ph
+oton2.phi_endcap_2018_lin.pdf  used on input line 537.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:528: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:537: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.528 \end{frame}
+l.537 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:528: Undefined control sequence.
+./DataProcessing2018.tex:537: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.528 \end{frame}
+l.537 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2547,10 +2617,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:528: Undefined control sequence.
+./DataProcessing2018.tex:537: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.528 \end{frame}
+l.537 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2559,12 +2629,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 528--528
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 537--537
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 528--528
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 537--537
 [] 
  []
 
@@ -2572,42 +2642,46 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 528--528
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photo
 n2.phi_barrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Des
-ktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/Photon2.phi_endcap_2018_lin.p
-df, page is rotated 90 degrees>]
+ktop/Work/Data2018/Latest/NEW_Photon2.phi_barrel_2018_lin.pdf, page is rotated 
+90 degrees> </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-san
+s-Cv3/Photon2.phi_endcap_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzi
+elperez/Desktop/Work/Data2018/Latest/NEW_Photon2.phi_endcap_2018_lin.pdf, page 
+is rotated 90 degrees>]
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/nPV_ba
-rrel_2018_lin.pdf, id=1498, 569.12625pt x 546.04pt>
+rrel_2018_lin.pdf, id=2235, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/n
 PV_barrel_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/nP
 V_barrel_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/nPV_barrel_2018_lin.pdf  used on input line 571.
+omptReco-sans-Cv3/nPV_barrel_2018_lin.pdf  used on input line 580.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 571.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nPV_barrel_2018_lin.pdf, i
+d=2236, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nPV_barrel_2018_lin.p
+df Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nPV_barrel_2018_lin.pd
+f>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nP
+V_barrel_2018_lin.pdf  used on input line 580.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
 
-./DataProcessing2018.tex:571: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:580: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.571 \end{frame}
+l.580 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:571: Undefined control sequence.
+./DataProcessing2018.tex:580: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.571 \end{frame}
+l.580 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2615,10 +2689,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:571: Undefined control sequence.
+./DataProcessing2018.tex:580: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.571 \end{frame}
+l.580 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2627,48 +2701,49 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 571--571
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 580--580
 [][] 
  []
 
 
-Overfull \hbox (17.75224pt too wide) in paragraph at lines 571--571
+Overfull \hbox (17.75224pt too wide) in paragraph at lines 580--580
 [] 
  []
 
 </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/nPV_en
-dcap_2018_lin.pdf, id=1499, 569.12625pt x 546.04pt>
+dcap_2018_lin.pdf, id=2237, 569.12625pt x 546.04pt>
 File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/n
 PV_endcap_2018_lin.pdf Graphic file (type pdf)
 <use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/nP
 V_endcap_2018_lin.pdf>
 Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/nPV_endcap_2018_lin.pdf  used on input line 571.
+omptReco-sans-Cv3/nPV_endcap_2018_lin.pdf  used on input line 580.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
-File: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/a
-bs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf Graphic file (type pdf)
-<use /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/ab
-s(Diphoton.cosThetaStar)_barrel_2018_lin.pdf>
-Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-Pr
-omptReco-sans-Cv3/abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf  used on input
- line 571.
+</Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nPV_endcap_2018_lin.pdf, i
+d=2238, 569.12625pt x 546.04pt>
+File: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nPV_endcap_2018_lin.p
+df Graphic file (type pdf)
+<use /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nPV_endcap_2018_lin.pd
+f>
+Package pdftex.def Info: /Users/uzzielperez/Desktop/Work/Data2018/Latest/NEW_nP
+V_endcap_2018_lin.pdf  used on input line 580.
 (pdftex.def)             Requested size: 103.79303pt x 99.58464pt.
 
-./DataProcessing2018.tex:571: LaTeX Error: \caption outside float.
+./DataProcessing2018.tex:580: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.571 \end{frame}
+l.580 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./DataProcessing2018.tex:571: Undefined control sequence.
+./DataProcessing2018.tex:580: Undefined control sequence.
 \caption ... \endcsname \fi \fi \@dblarg {\@tempf 
                                                   \@captype }
-l.571 \end{frame}
+l.580 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2676,10 +2751,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./DataProcessing2018.tex:571: Undefined control sequence.
+./DataProcessing2018.tex:580: Undefined control sequence.
 \caption ...e \fi \fi \@dblarg {\@tempf \@captype 
                                                   }
-l.571 \end{frame}
+l.580 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2688,12 +2763,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 571--571
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 580--580
 [][] 
  []
 
 
-Overfull \hbox (14.68103pt too wide) in paragraph at lines 571--571
+Overfull \hbox (14.68103pt too wide) in paragraph at lines 580--580
 [] 
  []
 
@@ -2701,8 +2776,10 @@ Overfull \hbox (14.68103pt too wide) in paragraph at lines 571--571
 
  </Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/nPV_b
 arrel_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Wor
-k/Data2018/Run2018A-C-PromptReco-sans-Cv3/nPV_endcap_2018_lin.pdf, page is rota
-ted 90 degrees>]
+k/Data2018/Latest/NEW_nPV_barrel_2018_lin.pdf, page is rotated 90 degrees> </Us
+ers/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/nPV_endcap
+_2018_lin.pdf, page is rotated 90 degrees> </Users/uzzielperez/Desktop/Work/Dat
+a2018/Latest/NEW_nPV_endcap_2018_lin.pdf, page is rotated 90 degrees>]
 \tf@nav=\write6
 \openout6 = `DataProcessing2018.nav'.
 
@@ -2712,19 +2789,20 @@ ted 90 degrees>]
 \tf@snm=\write8
 \openout8 = `DataProcessing2018.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
- (./DataProcessing2018.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 574.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 583.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 583.
+
+(./DataProcessing2018.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 583.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 583.
 Package rerunfilecheck Info: File `DataProcessing2018.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19030 strings out of 492649
- 366969 string characters out of 6129622
- 537685 words of memory out of 5000000
- 22424 multiletter control sequences out of 15000+600000
+ 19112 strings out of 492649
+ 376210 string characters out of 6129622
+ 537939 words of memory out of 5000000
+ 22506 multiletter control sequences out of 15000+600000
  17787 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,55p,785b,786s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2743,12 +2821,13 @@ texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
-/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on DataProcessing2018.pdf (17 pages, 787860 bytes).
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on DataProcessing2018.pdf (17 pages, 1397261 bytes).
 PDF statistics:
- 1673 PDF objects out of 1728 (max. 8388607)
- 945 compressed objects within 10 object streams
+ 2482 PDF objects out of 2487 (max. 8388607)
+ 1076 compressed objects within 11 object streams
  35 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
 

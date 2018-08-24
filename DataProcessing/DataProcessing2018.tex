@@ -26,16 +26,22 @@
 \newcommand{\cmmnt}[1]{\ignorespaces}
 %\setbeamersize{text margin left=0pt, text margin right=0pt}
 
-\graphicspath{{/Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/}}
+%\def \newIMGpath{\path{/Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3}}
 
+\graphicspath{{/Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/}{/Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/}{/Users/uzzielperez/Desktop/Work/Data2018/Run2018A-C-PromptReco-sans-Cv3/}{/Users/uzzielperez/Desktop/Work/Data2018/Latest/}}
+
+%Footnotes
+\setbeamertemplate{footline}[text line]{%
+  \parbox{\linewidth}{\vspace*{-8pt}Diphoton Data 2018-August 24, 2018\hfill\insertshortauthor\hfill\insertpagenumber}}
+\setbeamertemplate{navigation symbols}{}
+
+\author[UP]{Uzziel Perez}
 
 %Information to be included in the title page:
-\title{First 36.381/fb of 2018 data in diphoton channel + Data/MC comparison}
+\title{First \cmmnt{36.381/fb} 24.089 $fb^{-1}$ of 2018 data in diphoton channel + Data/MC comparison}
 \author{Uzziel Perez}
 \institute{University of Alabama}
 \date{2018}
-
-
 
 \begin{document}
 
@@ -44,7 +50,7 @@
 \begin{frame}
 \frametitle{Overview}
 \begin{itemize}
-  \item Dataset up to 24.089/fb
+  \item Dataset up to 24.089 $fb^{-1}$
   \item Latest dataset
 \end{itemize}
 \end{frame}
@@ -115,13 +121,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Minv_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Minv_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Minv_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Minv_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -150,13 +156,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon1.pt_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon1.pt_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon1.pt_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon1.pt_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -185,13 +191,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon2.pt_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon2.pt_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon2.pt_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon2.pt_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -220,13 +226,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.qt_barrel_2018_log.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.qt_barrel_2018_log.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.qt_endcap_2018_log.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.qt_endcap_2018_log.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -255,13 +261,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.deltaPhi_barrel_2018_log.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.deltaPhi_barrel_2018_log.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.deltaPhi_endcap_2018_log.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.deltaPhi_endcap_2018_log.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -293,13 +299,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.deltaEta_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.deltaEta_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.deltaEta_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.deltaEta_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -331,13 +337,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_abs(Diphoton.cosThetaStar)_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -369,13 +375,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.deltaR_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.deltaR_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Diphoton.deltaR_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Diphoton.deltaR_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -407,16 +413,17 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon1.eta_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon1.eta_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon1.eta_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon1.eta_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
+
 
 %phi1
 \begin{frame}[t]
@@ -424,6 +431,7 @@
 \begin{columns}[T]
 \column{.34\columnwidth}
   %\vskip-9em
+
   \begin{itemize}
     \item {\footnotesize \raggedleft Flat}
   \end{itemize}
@@ -442,16 +450,17 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon1.phi_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon1.phi_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon1.phi_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon1.phi_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
+
 
 %eta2
 
@@ -481,13 +490,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon2.eta_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon2.eta_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon2.eta_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon2.eta_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -516,13 +525,13 @@
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon2.phi_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon2.phi_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{Photon2.phi_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_Photon2.phi_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
@@ -559,13 +568,13 @@ luminosity increment}
 \column{.28\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{nPV_barrel_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_nPV_barrel_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Barrel}}}
 
 \column{.29\textwidth}
   %\vskip-1em
 \includegraphics[height=3.5cm]{nPV_endcap_2018_lin.pdf}
-\includegraphics[height=3.5cm]{abs(Diphoton.cosThetaStar)_barrel_2018_lin.pdf}
+\includegraphics[height=3.5cm]{NEW_nPV_endcap_2018_lin.pdf}
 \caption{\textcolor{white}{ta-} \textcolor{blue}{\small {Barrel-Endcap}}}
 \end{columns}
 \end{frame}
