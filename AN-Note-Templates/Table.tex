@@ -1,0 +1,57 @@
+\documentclass[border=3mm,preview]{standalone}
+\usepackage{amsmath,amssymb}
+\usepackage[flushleft]{threeparttable}
+\usepackage{array,booktabs,makecell}
+\usepackage[font=small]{caption}
+
+    \begin{document}
+\title{The mechanisms of four consensus filtering approaches}
+\begin{table}
+  \caption{The mechanisms of four consensus filtering approaches}
+  \centering 
+  \begin{threeparttable}
+    \begin{tabular}{ccc}
+    %{m{15mm} m{70mm} m{18mm}}
+    Types  & Structures of Consensus Filters \tnote{*} & References\\
+     \midrule\midrule
+CE  &   
+$\begin{aligned}
+\hat{x}^i_k & = \hat{x}^i_{k\mid k-1} + K^i_k(z^i_k 
+                - H^i_k \hat{x}^i_{k \mid k-1})+u^i_k   \\
+      u^i_k & = C^i_k \sum_{j\in N_i}(\hat{x}^j_{k\mid k-1}-\hat{x}^i_{k\mid k-1})
+\end{aligned}
+$        &   [58],[59]                        \\%new row
+    \cmidrule(l  r ){1-3}
+     CM & $ \begin{aligned}
+    \Omega^{i}_{k\mid {k}} &=  \Omega^{i}_{k\mid {k-1}}+ |\mathcal{N}|\sum_{j\in \mathcal{N}} \pi_{L,k}^{i,j} (H_k^j)^T (R_k^j)^{-1}H_k^j  \notag\\
+    q_{k\mid {k}}^i &=  q^{i}_{k\mid {k-1}}+ |\mathcal{N}|\sum_{j\in \mathcal{N}} \pi_{L,k}^{i,j} (H_k^j)^T (R_k^j)^{-1} z_k^j
+    \end{aligned} $ & \makecell{[16],[58]} \\ 
+    \cmidrule(l r ){1-3}
+     CI & $\begin{aligned}
+     \Omega^{i}_{k\mid {k}} &= \sum_{j\in \mathcal{N}} \pi_{L,k}^{i,j}\left[ \Omega^{j}_{k\mid {k-1}}+ (H_k^j)^T (R_k^j)^{-1}H_k^j\right] \notag\\ 
+     q_{k\mid {k}}^i &=   \sum_{j\in \mathcal{N}} \pi_{L,k}^{i,j} \left[ q^{j}_{k\mid {k-1}}+  (H_k^j)^T (R_k^j)^{-1} z_k^j\right] 
+    \end{aligned} $ & [19],[75] \\ 
+    \cmidrule(l r ){1-3}
+\makecell{$H_\infty$\\
+consensus }
+    &   $\begin{aligned}
+    &   \begin{cases}
+\hat{x}^i_k = A_k \hat{x}^i_{k-1} 
+                    + K^i_k(z^i_k- H^i_k\hat{x}^i_{k-1})
+                    + u^i_k     \\
+      u^i_k = C^i_k \sum_{j\in N_i}(\hat{x}^j_{k-1}-\hat{x}^i_{k-1})
+        \end{cases}\\
+   
+    & \frac{1}{n}\sum_{i\in \mathcal{N}} \|\tilde{z}^i\|^2 
+            \leq \gamma^2 \{\|v\|_2^2 
+              + \frac{1}{n}\sum_{i\in\mathcal{N}} (e^i_0)^T S^i e^i_0\}
+\end{aligned}
+$       & [78],[80]                       \\% end of rows
+    \midrule\midrule
+    \end{tabular}
+    \begin{tablenotes}
+\item[*] Throughout the table, $A_k$ is the systems matrix, $H_k^i$, $R_k^i$ and $z_k^i$ are respectively measurement matrix, covariance matrix of measurement noise and measurement output value of node $i$. Further, denote $\Omega_{k\mid k}  \triangleq  (P_{k\mid k})^{-1}$ and $q_{k\mid k}=(P_{k\mid k})^{-1}\hat{x}_{k\mid k}$ as information matrix and information vector. 
+\end{tablenotes}
+\end{threeparttable}
+  \end{table}
+\end{document}

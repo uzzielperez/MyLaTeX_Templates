@@ -1,0 +1,48 @@
+\documentclass[border=3mm,preview]{standalone}
+\usepackage{amsmath,amssymb}
+\usepackage[flushleft]{threeparttable}
+\usepackage{array,booktabs,makecell}
+\usepackage[font=small]{caption}
+
+    \begin{document}
+%\title{The mechanisms of four consensus filtering approaches}
+\begin{table}
+  \caption{Signal Yields for various model points for $m_{\gamma\gamma} > 2$ TeV}
+  \centering 
+  \begin{threeparttable}
+    \begin{tabular}{ccc}
+    %{m{15mm} m{70mm} m{18mm}}
+    Model Points  &  $S+B$ & $S$ \\
+     \midrule\midrule
+     $d_{u} = 1.1$, $\Lambda_{u} = 2.750$ TeV &  27.42  & 12.055\\%new row
+	$d_{u} = 1.1$, $\Lambda_{u} = 2.875$ TeV &  23.34  & 7.98\\%new row
+    $d_{u} = 1.1$, $\Lambda_{u} = 3.000$ TeV &    19.81 & 4.45 \\ 
+    $d_{u} = 1.5$, $\Lambda_{u} = 1.750$ TeV  & 57.60 & 42.23 \\ 
+	$d_{u} = 1.5$, $\Lambda_{u} = 2.250$ TeV &  25.64 & 10.27 \\
+	$d_{u} = 1.5$, $\Lambda_{u} = 2.500$ TeV &  20.20 & 4.83\\
+    	$d_{u} = 1.9$, $\Lambda_{u} = 2.000$ TeV & 50.46 & 35.1\\
+    	$d_{u} = 1.9$, $\Lambda_{u} = 2.500$ TeV &  24.64 & 9.27\\
+    	$d_{u} = 1.9$, $\Lambda_{u} = 3.000$ TeV &  19.89 & 4.53\\
+    \midrule\midrule
+    \end{tabular}
+    \begin{tablenotes}
+\item[*] Here we are assuming that $n_{obs} = B = 15.36$. The $95 CL_{s}$ upper limit for $S+B$ is at 24.7 ($S  = 9.7$). With this simple counting experiment we can exclude with $95\%$ confidence model points which have $S >9.7$. Without accounting for systematic uncertainties, we can exclude the following.
+
+\begin{table}
+  \caption{Signal Yields for various model points for $m_{\gamma\gamma} > 2$ TeV}
+  \centering 
+  \begin{threeparttable}
+    \begin{tabular}{ccc}
+    %{m{15mm} m{70mm} m{18mm}}
+    $d_{u}$  & Excluded Range \\
+     \midrule\midrule
+      $1.9$ & $\Lambda_{u}<2500$ \\
+      $1.5$ & $\Lambda_{u}<2250$ \\
+      $1.1$ & $\Lambda_{u}<2875$ \\
+    \midrule\midrule
+    \end{tabular}
+    \begin{tablenotes}
+\end{tablenotes}
+\end{threeparttable}
+  \end{table}
+\end{document}
